@@ -1,5 +1,5 @@
 {
-  "name": "vue-gtm",
+  "name": "@elisiondesign/vue-gtm",
   "version": "2.3.0",
   "description": "Google Tag Manager implementation in Vue application",
   "main": "./dist/vue-gtm.min.js",
